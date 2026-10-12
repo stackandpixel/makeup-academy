@@ -1,0 +1,8 @@
+{
+  "name": "Glow Studio - Luxury Makeup Academy & Bridal Studio",
+  "description": "Premium, mobile-first static website template for makeup academies and bridal studios with Google Places API, Drive, YouTube integration, and instant WhatsApp booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
